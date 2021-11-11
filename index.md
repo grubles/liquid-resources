@@ -1,45 +1,57 @@
-# Liquid Resources
 Find all of the resources you need to get started using and building on Liquid, a Bitcoin sidechain developed by Blockstream and operated by independent entities around the world.
 
 
+# Wallets
+
+Send and receive Liquid Bitcoin (L-BTC) and other Liquid assets.
+
+[Blockstream Green](https://blockstream.com/green)
+
+[Sideswap](https://sideswap.io)
+
+[Specter Desktop]()
+
+[Elements](https://github.com/elementsproject/elements)
+
+# Dev Tools
+
+Use these tools to get started building on Liquid.
+
+[Liquid Coach](https://vulpemventures.github.io/liquid.coach/)
+
+[Nigiri](https://nigiri.vulpem.com/)
 
 
-## Wallets
-Blockstream Green
-https://blockstream.com/green
+# Libraries
 
-Sideswap
-https://sideswap.io
+Implement Liquid support into your application with these libraries.
 
-Elements
-https://github.com/elementsproject/elements
+**Javascript**
 
-## Dev Tools
-Liquid Coach
-https://vulpemventures.github.io/liquid.coach/
+[LiquidJS](https://github.com/provable-things/liquidjs-lib)
 
-Nigiri
-https://nigiri.vulpem.com/
+**Go**
 
-**Libraries**
+[go-elements](https://github.com/vulpemventures/go-elements)
 
-LiquidJS
-https://github.com/provable-things/liquidjs-lib
+**Rust**
 
-go-elements
-https://github.com/vulpemventures/go-elements
+[rust-elements](https://github.com/ElementsProject/rust-elements/)
 
-rust-elements
-https://github.com/ElementsProject/rust-elements/
+**Python**
 
-python-elementstx
-https://github.com/Simplexum/python-elementstx
+[python-elementstx](https://github.com/Simplexum/python-elementstx)
 
-## Projects
-Bitmatrix
 
-TDEX
-https://tdex.network/
+# Projects
+
+Applications you can use to leverage the technology built into Liquid.
+
+
+[Bitmatrix](https://medium.com/bit-matrix)
+
+[TDEX](https://tdex.network/)
+
 
 Sideswap
 
